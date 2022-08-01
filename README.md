@@ -55,13 +55,6 @@
 
 ### Feel Free to connect!
 
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/harshgeek4coder/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
-
 **Here are few of my projects, feel free to explore and modify them! 😄**
 <!--
 **harshgeek4coder/harshgeek4coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
