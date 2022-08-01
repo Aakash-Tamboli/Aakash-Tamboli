@@ -18,7 +18,7 @@
 <h2 align="center">
   <code>
     <a href="https://www.linkedin.com/in/aakash-tamboli-a53b08212" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>  
-  <code><a href="https://twitter.com/harsh_sharma27" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  <code><a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h2>
 
