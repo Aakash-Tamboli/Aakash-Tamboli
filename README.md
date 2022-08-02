@@ -24,6 +24,9 @@
 
 
 ## Skills
+- Intermediate C Programmer
+- Beginner-Intermediate in Data Structure algorithms problems
+- Always Ready to learn anything related to technology
 
 ### Languages
 <p float="left">
