@@ -16,8 +16,10 @@
 - 📫 How to reach me: Checkout My Social Handels<br>
 
 <h2 align="center">
-<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="icons/socials/linkedin.svg"> LinkedIn</a>
- <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="icons/socials/twitter.svg"> Twitter </a>
+<!--   <a href="https://www.freepnglogos.com/pics/linkedin-logo-png">Linkedin Logo from freepnglogos.com</a> -->
+<!--   <a href="https://www.freepnglogos.com/pics/logo-twitter-png">Logo Twitter from freepnglogos.com</a> -->
+<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png"> LinkedIn</a>
+ <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"> Twitter </a>
 </h2>
 
 
@@ -28,8 +30,8 @@
 
 ### Languages
 <p float="left">
-<img alt="C" src="icons/skills/c.svg"/>
-<img alt="C++" src="icons/skills/cpp.png"/>
+<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" width="300px" />
+<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png" width="250px" />
 <img alt="Java" src="icons/skills/java.svg"/>
 </p>
 
