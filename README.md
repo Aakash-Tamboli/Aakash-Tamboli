@@ -29,7 +29,7 @@
 ### Languages
 <p float="left">
 <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" width="175px" />
-<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png" width="150px" />
+<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png" width="150px" />&nbsp; &nbsp; 
 <img alt="Java" src="https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge" width="300px" />
 </p>
 
