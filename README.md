@@ -16,10 +16,8 @@
 - 📫 How to reach me: Checkout My Social Handels<br>
 
 <h2 align="center">
-<!--   <a href="https://www.freepnglogos.com/pics/linkedin-logo-png">Linkedin Logo from freepnglogos.com</a> -->
-<!--   <a href="https://www.freepnglogos.com/pics/logo-twitter-png">Logo Twitter from freepnglogos.com</a> -->
-<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png"> LinkedIn</a>
- <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png"> Twitter </a>
+<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> LinkedIn</a>
+ <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png"> Twitter </a>
 </h2>
 
 
@@ -30,9 +28,9 @@
 
 ### Languages
 <p float="left">
-<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" width="300px" />
-<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png" width="250px" />
-<img alt="Java" src="icons/skills/java.svg"/>
+<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" width="175px" />
+<img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/256px-ISO_C%2B%2B_Logo.svg.png" width="150px" />
+<img alt="Java" src="https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge" width="300px" />
 </p>
 
 ### Database
@@ -44,15 +42,3 @@
 ### Feel Free to connect!
 
 **Here are few of my projects, feel free to explore and modify them! 😄**
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
