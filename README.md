@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there 👋, I am Aakash Tamboli</h1>
 
-- **I am a CSE student at Thinking Machines, Ujjain.**
+- **I am a CSE student**
 - **I Like To Implement My Skills On various technolgy like C,C++,Java and many More**
 
 <h1 align="center">
@@ -9,9 +9,9 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on Data Stucture Library,Socket Programming, and Web Technologies. 
+- 🔭 I’m currently working on Socket Programming, Business Related Software, and Web Technologies. 
 - 🌱 Currently exploring more in CS Streams.
-- 👯 Looking to collaborate on C, IOT or Open Source Projects.
+- 👯 Looking to collaborate on C,C++,Java or Open Source Projects.
 - 💬 Feel free to drop by a message!
 - 📫 How to reach me: Checkout My Social Handels<br>
 
@@ -24,7 +24,7 @@
 
 
 ## Skills
-- Intermediate C Programmer
+- Intermediate C,C++,Java Programmer
 - Beginner-Intermediate in Data Structure algorithms problems
 - Always Ready to learn anything related to technology
 
