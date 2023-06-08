@@ -16,10 +16,8 @@
 - 📫 How to reach me: Checkout My Social Handels<br>
 
 <h2 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>  
-  <code><a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
-  
+<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+ <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a>
 </h2>
 
 
