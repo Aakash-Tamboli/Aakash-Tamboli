@@ -16,8 +16,8 @@
 - 📫 How to reach me: Checkout My Social Handels<br>
 
 <h2 align="center">
-<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="./icons/socials/linkedin.svg"> LinkedIn</a>
- <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="./icons/socials/twitter.svg"> Twitter </a>
+<a href="https://www.linkedin.com/in/aakashtamboli" title="LinkedIn Profile"><img width="18" src="icons/socials/linkedin.svg"> LinkedIn</a>
+ <a href="https://twitter.com/AakashTamboli11" title="Twitter"><img width="18" src="icons/socials/twitter.svg"> Twitter </a>
 </h2>
 
 
@@ -28,9 +28,9 @@
 
 ### Languages
 <p float="left">
-<img alt="C" src="./icons/skills/c.svg"/>
-<img alt="C++" src="./icons/skills/cpp.png"/>
-<img alt="Java" src="./icons/skills/java.svg"/>
+<img alt="C" src="icons/skills/c.svg"/>
+<img alt="C++" src="icons/skills/cpp.png"/>
+<img alt="Java" src="icons/skills/java.svg"/>
 </p>
 
 ### Database
