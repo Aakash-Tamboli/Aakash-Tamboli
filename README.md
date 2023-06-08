@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there 👋, I am Aakash Tamboli</h1>
+<h1 align="center"> Hey there 👋, I am Aakash</h1>
 
 - **I am a CSE student**
 - **I Like To Implement My Skills On various technolgy like C,C++,Java and many More**
